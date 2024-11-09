@@ -1,0 +1,11 @@
+id,name,percentage
+1,1 Year to 6 Months before,0% - 50%
+2,9 Months to 6 Months before,25% - 50%
+3,3 Months to 1 Month before,50% - 75%
+4,6 Months to 3 Months before,75% - 92%
+5,3 Months before,75%
+6,3 Months to 1 Month before,75% - 92%
+7,1 Month before,92%
+8,1 Week before and Wedding Day,98%
+9,Wedding Day,100%
+10,6 Months after Wedding Day,150%

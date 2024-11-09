@@ -1,0 +1,56 @@
+id,department_id,task_category_id,name,description
+1,6,1,Initial meeting,Initial meeting with the couple
+2,6,1,Confirm availability,Confirm team availability
+3,6,1,Task distribution,Distribution of tasks and assigning teams
+4,6,1,Memo distribution,Bring down memo for each team leaders of each department
+5,6,1,Monitor departments,Monitor each department
+6,6,4,Finalize event flow,Finalize event flow (Consult with Clients)
+7,6,6,Oversee final prep,Oversee final preparations and ensure all departments have necessary resources
+8,6,8,Final check-ins,Final check-ins with departments
+9,6,8,Day-of oversight,"Day-of oversight, monitoring each department’s progress"
+10,1,2,Food planning meeting,Meeting for food planning
+11,1,2,Menu planning,Plan and design the wedding menu
+12,1,4,Food tasting,Conduct food tasting with the couple
+13,1,4,Coordinate venue logistics,Coordinate logistics with the venue for catering
+14,1,4,Table and chair setup plan,Plan chair and table setup to match the wedding’s color theme
+15,1,7,Finalize setup plan,Finalize setup plan with the designing team for the reception
+16,1,7,Discuss food cart options,Discuss additional food cart (Mobile Bar or Donut Wall)
+17,1,9,Buffet Setup,Buffet Setup
+18,1,9,Reception design setup,Modern Design of wedding reception set up
+19,1,9,Food cart setup,Setup food cart choice
+20,1,9,Service cleanup,Clean-up after service completion
+21,2,5,Initial makeup consultation,Initial consultations for makeup styles
+22,2,5,Theme meeting with couple,Meeting with the bride and groom to discuss the entourage theme
+23,2,5,Prenup hair and makeup,Prenup Traditional hair and makeup
+24,2,9,Bride airbrush makeup,Airbrush makeup for the bride
+25,2,9,Groom traditional makeup,Traditional makeup for the groom
+26,2,9,Entourage makeup,Entourage makeup
+27,2,9,Pre-ceremony shoot makeup,Makeup for pre-ceremony photo and video shoots
+28,3,5,Theme discussion for video/album,Meeting with the couple and coordinator to discuss themes and concepts for video and album
+29,3,5,Prenuptial pictorial session,Prenuptial Pictorial Session
+30,3,7,Confirm shot list,Confirm shot lists and key moments with the couple and coordinator
+31,3,7,Design photo frame,Designing of Wedding Photo Frame
+32,3,9,Setup photobooth,Setup Photobooth
+33,3,9,Setup drone,Setup Aerial Pilot/Drone
+34,3,9,Setup projector screen,Setup Projector Screen
+35,3,9,Same-day edit video,Same day edit video prenuptial photo and engagement session
+36,3,9,Same-day photo album edit,Onside Photo same day edit with photo album with wedding highlights
+37,3,9,Raw photo transfer,Transfer raw photos for clients on the same day
+38,3,10,Final file transfer,File transfer of magnetic wedding album and video to the couple
+39,4,2,Plan overall theme,Plan the wedding’s overall theme and identify props to match the motif
+40,4,2,Design invitations,Design and coordinate the invitation cards
+41,4,6,"Aisle, walkway, and altar setup","Finalize aisle setup, walkway, altar, and reception décor"
+42,4,6,Coordinate reception design,Coordinate with the catering team for the design of the reception space
+43,4,6,Entourage flowers,"Entourage flowers choices Bouquet, Boutonniere, and Corsage"
+44,4,6,Garden floristry design,Designing of Garden Floristry
+45,4,6,Setup LED wall,Setup LED Wall
+46,4,9,Early decorative setup,"Early setup of all decorative elements, including aisle flowers, altar, entrance arch, and reception decor"
+47,4,9,Final touch-ups,Final touch-ups on decorative elements before guests arrive
+48,5,4,Reception tone meeting,Meeting to discuss the tone of the reception (formal or playful)
+49,5,4,Plan reception activities,Plan reception activities based on the couple’s preferences
+50,5,7,Check sound and lights,Check sound and lights equipment
+51,5,7,Music preference discussion,Discuss music preference for both wedding ceremony and reception
+52,5,9,Setup lights and sound,"Setup lights, sound, and channel mixer music operator"
+53,5,9,Deploy band,Deploy Acoustic Band
+54,5,9,Coordinate with emcee,Coordinate with the emcee for announcements and flow of events
+55,5,9,Setup reception activities,Set up reception activities like games and first dance
