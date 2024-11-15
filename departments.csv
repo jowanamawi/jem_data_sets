@@ -1,7 +1,7 @@
-id,department_name,role_description
-1,Coordination,"Responsible for initial planning, team assignments, progress monitoring, and overall event oversight to ensure seamless execution on the wedding day."
-2,Catering,"Handles menu planning, food tasting, and reception setup, coordinating with other teams to deliver and serve food that aligns with the wedding’s theme."
-3,Hair and Makeup Artist,"Provides styling and makeup for the bride, groom, and entourage, ensuring looks are coordinated with outfits and maintained throughout the event."
-4,Photo and Video,"Captures memorable moments, handles pre-wedding shoots, and produces same-day edits and albums that align with the couple’s vision."
-5,Designing,"Creates and implements the wedding’s theme through decoration, aisle, and reception setups, coordinating with catering for a cohesive design experience."
-6,Entertainment,"Organizes the reception flow, manages announcements, and arranges games, dances, and speeches to create an engaging experience for guests."
+id,name,description
+1,Catering,"Responsible for initial planning, team assignments, progress monitoring, and overall event oversight to ensure seamless execution on the wedding day."
+2,Hair and Makeup,"Handles menu planning, food tasting, and reception setup, coordinating with other teams to deliver and serve food that aligns with the wedding’s theme."
+3,Photo and Video,"Provides styling and makeup for the bride, groom, and entourage, ensuring looks are coordinated with outfits and maintained throughout the event."
+4,Designing,"Captures memorable moments, handles pre-wedding shoots, and produces same-day edits and albums that align with the couple’s vision."
+5,Entertainment,"Creates and implements the wedding’s theme through decoration, aisle, and reception setups, coordinating with catering for a cohesive design experience."
+6,Coordination,"Organizes the reception flow, manages announcements, and arranges games, dances, and speeches to create an engaging experience for guests."
